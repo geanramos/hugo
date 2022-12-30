@@ -2,7 +2,8 @@
 title: "Simplesmente Amor"
 date: "2022-12-24"
 tags: [memories]
-Description:"Quem não gosta de um filme de Natal? Aquele roteiro milimetricamente pensado para agradar a família toda, com um lançamento cirúrgico na época em que todo mundo parece ficar mais sensível."
+Description: "Quem não gosta de um filme de Natal? Aquele roteiro milimetricamente pensado para agradar a família toda, com um lançamento cirúrgico na época em que todo mundo parece ficar mais sensível."
+img: "http://1.bp.blogspot.com/-H9fLLkOK69o/VmxTT6uI8LI/AAAAAAAADXY/w0hdELrv-NY/s400/im%25C3%25A1genes%2Bnavide%25C3%25B1as%2Bde%2Bamor.jpg"
 ---
 
 ![Filme de Natal: Simplesmente Amor](http://1.bp.blogspot.com/-H9fLLkOK69o/VmxTT6uI8LI/AAAAAAAADXY/w0hdELrv-NY/s400/im%25C3%25A1genes%2Bnavide%25C3%25B1as%2Bde%2Bamor.jpg)
