@@ -2,7 +2,7 @@
 title: "Amar é mudar a alma da casa"
 date: "2022-12-17"
 tags: [memories]
-Description: "breve"
+Description: "Conhecido como “poeta das coisas simples”, Mario Quintana se tornou um dos maiores nomes da literatura brasileira sem usar palavras difíceis e nem versos complicados."
 img: "https://i1.wp.com/miro.medium.com/max/1100/1*J2ix2FhN64ufVLMp-Hh4rA.webp?resize=400,225"
 ---
 
