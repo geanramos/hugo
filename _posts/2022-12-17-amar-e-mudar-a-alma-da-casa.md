@@ -1,3 +1,10 @@
+---
+title: "Amar é mudar a alma da casa"
+date: "2022-12-17"
+tags: [memories]
+Description: "breve"
+img: "https://i1.wp.com/miro.medium.com/max/1100/1*J2ix2FhN64ufVLMp-Hh4rA.webp?resize=400,225"
+---
 
 ![Lar é onde o amor estar](https://i1.wp.com/www.bemcolar.com/media/catalog/product/cache/1/image/520x/9df78eab33525d08d6e5fb8d27136e95/f/r/frase-3d-em-acrilico-lar-e-onde-o-amor-esta.jpg?resize=400,225)
 
