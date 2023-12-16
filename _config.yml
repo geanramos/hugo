@@ -1,11 +1,11 @@
 # Site settings
 title: The Memories
 description: "histórias que emocionam."
-url: "https://memories.geanramos.com"
+url: "https://memories.geanramos.com.br"
 author:
   name: "Gean Ramos"
-  email: "contato@geanramos.com"
-  url: "https://memories.geanramos.com"
+  email: "contato@geanramos.com.br"
+  url: "https://memories.geanramos.com.br"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
