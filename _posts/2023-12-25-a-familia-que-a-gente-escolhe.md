@@ -1,4 +1,3 @@
-
 ---
 title: "A família que a gente escolher"
 date: "2023-12-25"
