@@ -5,8 +5,6 @@ tags: [blog]
 img: "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*w3MvZcahejZ6IHY6CiH1LQ.jpeg"
 ---
 
-2023-12-30-trago-seu-amor-de-volta
-
 ![Trago seu amor de volta](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*w3MvZcahejZ6IHY6CiH1LQ.jpeg)
 
 Já era mais de meia noite e a frase **“trago seu amor de volta”** ainda ecoava dentro da sua cabeça, resolveu, então, ligar:  
