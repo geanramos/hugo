@@ -7,9 +7,9 @@ img: "https://ci3.googleusercontent.com/meips/ADKq_NY5LIrwc4YBfVlkbvdWKVPvKujaFl
 
 ![Um certo milagre](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6keQMURBpyUuLuXRd9-FLmmWLjcosy5zm-C_FvyVjj8BZt9ecLEcuTldST2pPdLD_-EEsvbrG6V-wLNGEKjOvDXFbFAI0RONmMa7jW_x8XV4zkRCcuQj6Mdm-tJI1Q8a53VKw2FZw1Gy4TZzFx4kMHqeILffsqJGkG6i2ZM-L0TgJPpkhUn6t04ZnOlg6/s1600/412060090_739749478026620_1998593151246065207_n.jpg)
 
-Uma vez, a  **Luiza**  leu em um livro da Carla Madeira que  _“o que mais existe no mundo são pessoas que nunca vão se conhecer e que é preciso uma coincidência qualquer para que o amor se instale”_.
+Uma vez, a  **[Luiza](https://www.instagram.com/luliomairi/)**  leu em um livro da Carla Madeira que  _“o que mais existe no mundo são pessoas que nunca vão se conhecer e que é preciso uma coincidência qualquer para que o amor se instale”_.
 
--   Pra ela, sua história com o  **Rodrigo**  pode ser resumida nessa frase, afinal, o encontro deles foi um certo tipo de milagre.
+-   Pra ela, sua história com o  **[Rodrigo](https://www.instagram.com/rodrigommello/)**  pode ser resumida nessa frase, afinal, o encontro deles foi um certo tipo de milagre.
     
 
 O Rodrigo é nascido e criado em Belo Horizonte. A Luiza é de Curitiba, mas mora no interior de São Paulo, e sempre foi cética a respeito de namoro à distância:  _“não quero, não é pra mim”._
