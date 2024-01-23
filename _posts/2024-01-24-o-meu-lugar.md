@@ -1,4 +1,3 @@
-
 ---
 title: "O meu lugar"
 date: "2024-01-24"
