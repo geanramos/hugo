@@ -7,8 +7,6 @@ img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUgjWPw0VO3_i6
 
 ![Vai que dá](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUgjWPw0VO3_i6S-jauVNx6EWM8TCUbWZ9ywX1SVij342LyVkm8KA8s2m6oHXECcXr8i4d2JlXtGD_2C5A1kFKZWHJdqmrJPdgwf9xB12NZVYHIT09gnJpAdc6ZC6tTK9If2GDiheEqzjk7RYpli7xvbLIH9p2yvdvCmeGcbck5SQ9rgYcSp5hNuW7tAn/s736/unnamed%20%281%29.jpg)
 
-![Vai que dá, Depois de quase desistir](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUgjWPw0VO3_i6S-jauVNx6EWM8TCUbWZ9ywX1SVij342LyVkm8KA8s2m6oHXECcXr8i4d2JlXtGD_2C5A1kFKZWHJdqmrJPdgwf9xB12NZVYHIT09gnJpAdc6ZC6tTK9If2GDiheEqzjk7RYpli7xvbLIH9p2yvdvCmeGcbck5SQ9rgYcSp5hNuW7tAn/s736/unnamed%20%281%29.jpg)
-
 Depois de quase desistir da  **Carol**, sua terapeuta pediu pra que ela fizesse um exercício: descrever, com todos os detalhes, ***o seu homem ideal.*** Se ele é vegano, tem um olho de cada cor, o que ela quisesse.
 
 > Em 2013, então, a Carol escreveu o seguinte:
