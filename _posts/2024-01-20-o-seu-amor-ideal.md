@@ -7,11 +7,36 @@ img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUgjWPw0VO3_i6
 
 ![Vai que dá](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUgjWPw0VO3_i6S-jauVNx6EWM8TCUbWZ9ywX1SVij342LyVkm8KA8s2m6oHXECcXr8i4d2JlXtGD_2C5A1kFKZWHJdqmrJPdgwf9xB12NZVYHIT09gnJpAdc6ZC6tTK9If2GDiheEqzjk7RYpli7xvbLIH9p2yvdvCmeGcbck5SQ9rgYcSp5hNuW7tAn/s736/unnamed%20%281%29.jpg)
 
-Depois de quase desistir da  **Carol**, sua terapeuta pediu pra que ela fizesse um exercício: descrever, com todos os detalhes, o seu homem ideal. Se ele é vegano, tem um olho de cada cor, o que ela quisesse.
+![Vai que dá, Depois de quase desistir](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUgjWPw0VO3_i6S-jauVNx6EWM8TCUbWZ9ywX1SVij342LyVkm8KA8s2m6oHXECcXr8i4d2JlXtGD_2C5A1kFKZWHJdqmrJPdgwf9xB12NZVYHIT09gnJpAdc6ZC6tTK9If2GDiheEqzjk7RYpli7xvbLIH9p2yvdvCmeGcbck5SQ9rgYcSp5hNuW7tAn/s736/unnamed%20%281%29.jpg)
 
-Em 2013, então, a Carol escreveu o seguinte:
+Depois de quase desistir da  **Carol**, sua terapeuta pediu pra que ela fizesse um exercício: descrever, com todos os detalhes, ***o seu homem ideal.*** Se ele é vegano, tem um olho de cada cor, o que ela quisesse.
 
-_Eu quero que ele seja alto. Que tenha um sorriso bonito. No rosto todo. Cabelo cacheado. Quero que a gente tenha química. Que a gente adore encostar um no outro. Eu quero que ele goste de praia. E de me levar para viajar. Quero que ele tenha um cachorro. Quero que ele goste de praticar esportes. Que ele faça cafuné gostoso e goste de fazer massagem em mim. Quero confiar nele. Que ele me passe segurança, mas me dê frio na barriga. Quero que ele goste de me colocar no colo. E que a gente tenha piadas internas. Que ele me leve pra lugares novos e de bom gosto. Que ele seja apaixonado por mim e eu por ele. Que a gente sinta saudade mesmo tendo se visto na noite anterior. Ele tem um olhar lindo. E um cheiro natural muito gostoso. De praia. Ele gosta de café preto. Ele vai ser o melhor pai do mundo. E vai ser viciado em me beijar. Nós vamos viajar muito. Talvez por uns 3 meses seguidos. Ele tem a pele dourada. E eu fico pequena perto dele, mas ele me vê em toda a minha grandeza. Eu amo ele. Ele me ama mais que tudo._
+> Em 2013, então, a Carol escreveu o seguinte:
+
+_Eu quero que ele seja alto. 
+Que tenha um sorriso bonito. 
+No rosto todo. Cabelo cacheado. 
+Quero que a gente tenha química. 
+Que a gente adore encostar um no outro. 
+Eu quero que ele goste de praia. 
+E de me levar para viajar. 
+Quero que ele tenha um cachorro. 
+Quero que ele goste de praticar esportes. 
+Que ele faça cafuné gostoso e goste de fazer massagem em mim. 
+Quero confiar nele. Que ele me passe segurança, mas me dê frio na barriga. Quero que ele goste de me colocar no colo. 
+E que a gente tenha piadas internas. 
+Que ele me leve pra lugares novos e de bom gosto. 
+Que ele seja apaixonado por mim e eu por ele. 
+Que a gente sinta saudade mesmo tendo se visto na noite anterior. 
+Ele tem um olhar lindo. E um cheiro natural muito gostoso. 
+De praia. Ele gosta de café preto. 
+Ele vai ser o melhor pai do mundo. 
+E vai ser viciado em me beijar. 
+Nós vamos viajar muito. 
+Talvez por uns 3 meses seguidos. 
+Ele tem a pele dourada. 
+E eu fico pequena perto dele, mas ele me vê em toda a minha grandeza. 
+Eu amo ele. Ele me ama mais que tudo._
 
 Alguns anos depois, ela conheceu o “homem Ibérico”. É sério, ele se autointitula assim e diz que restam poucos homens Ibéricos caminhando sobre a superfície da Terra.
 
@@ -24,7 +49,8 @@ Ela estava na morando na Espanha, e ele tinha começado a trabalhar na sua agên
 
 Ela achou ele interessante de cara: alto. Sorriso bonito. No rosto todo. Cabelo cacheado.  **Já escutou essa descrição?**
 
--   Acontece que, mesmo percebendo todos esses detalhes, a Carol hesitava —  _“ele é do seu trabalho. Vocês se veem todo dia. Isso não vai dar certo”_.
+-   Acontece que, mesmo percebendo todos esses detalhes, a Carol hesitava 
+- —  _“ele é do seu trabalho. Vocês se veem todo dia. Isso não vai dar certo”_.
     
 
 Mas aí ela também se deu conta de que fazia tempo que sempre preferia estar nos lugares quando ele estava. Que ria mais alto que o resto quanto ele fazia uma piada.
@@ -36,7 +62,8 @@ Nessa amizade que foi crescendo, a Carol foi passar o final de semana na casa do
 -   Quando a noite caiu, ela foi dormir na sua  _“cama de amiga”_, com seu  _“pijama de amiga”_. Até que o Fer deitou ao lado dela, e disse que tinha um problema.
     
 
-**Ele queria roubar um beijo.**  Pronto, solucionaram esse problema rapidinho — e, a partir dessa noite, dormiram todas as outras juntos.
+**Ele queria roubar um beijo.**  Pronto, solucionaram esse problema rapidinho 
+— e, a partir dessa noite, dormiram todas as outras juntos.
 
 Juntos, aliás, é o que eles mais estão. Moram juntos. Trabalham juntos. Cozinham juntos — ele cozinhando, e ela comendo.  **Juntos é onde a Carol quer estar.**
 
@@ -45,7 +72,7 @@ E não só no sentido físico. Mas de saber que tem um parceiro, uma equipe. Que
 -   Juntos eles também saíram da Espanha e vieram morar no Brasil. O Fer mudou de país, de carreira e de idioma, mas diz que tirou tudo de letra.
     
 
-Em seu segundo Réveillon por aqui — já encantado com todo o combo de tradições brasileiras —, ele cismou que tinha que pular as 7 ondinhas:  _“Carol, eu prometi pra Yemanjá”._
+Em seu segundo Réveillon por aqui — já encantado com todo o combo de tradições brasileiras —, ele cismou que tinha que pular as 7 ondinhas:  _**“Carol, eu prometi pra Yemanjá”**._
 
 Depois do último pulo, ela se virou e viu o homem Ibérico ajoelhado no mar. E ali, debaixo da lua, com a benção de Yemanjá e sem mais ninguém de testemunha, **a Carol disse o seu primeiro “sim” do ano.**
 
