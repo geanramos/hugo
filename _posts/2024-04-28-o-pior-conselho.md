@@ -1,13 +1,13 @@
 ---
 title: "Pior conselho"
 date: 2024-04-28T12:13:32+05:30
-description: "Os colegas que viam de fora, desconfiavam que aquilo ali não poderia ser só amizade, mas eles não ligavam: sabiam que aquela conexão era pra poucos."
+description: "gente chata e sem nenhuma graça que passamos diariamente quando estamos a caminho do trabalho. Até que uma pessoa encontra outra pessoa no meio da multidão."
 tags: [memories]
 ---
 
 **BASEADO EM UMA HISTÓRIA REAL**
 
-![(@moraeseduardo e @marinamullerg)](https://i1.wp.com/memories.geanramos.com.br/img/moraeseduardo-e-marinamullerg.jpg?resize=676,381)
+![(@moraeseduardo e @marinamullerg)](https://i1.wp.com/memories.geanramos.com.br/img/moraeseduardo-e-marinamullerg.jpg?resize=676,380)
 
 **_"Não mostra esse seu coração mole para mais ninguém"._**
 O Eduardo ouviu essa frase em um dia de derrota do Flamengo, naquela resenha depois de uma dezena de long necks.
@@ -30,7 +30,7 @@ Mesmo com essa ideia de coração fechado, ele sabia que o encontro dos dois tin
 
 -   Tanto que, na primeira conversa, já lembrou do começo de **“Não Vá Embora”, da Marisa Monte.**
 - 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KqZjtaQN0k4?si=r29ZVCszOCca-LFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="676" height="380" src="https://www.youtube-nocookie.com/embed/KqZjtaQN0k4?si=r29ZVCszOCca-LFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _“E no meio de tanta gente eu encontrei você._ _Entre tanta gente chata sem nenhuma graça, você veio”._ E o Eduardo também diz que, por algum motivo, essa música faz ele pensar no metrô. Naquele entra e sai.
 
