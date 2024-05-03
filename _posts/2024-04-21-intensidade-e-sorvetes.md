@@ -5,7 +5,7 @@ description: "Não é que eu gosto. É que eu amo. Eu chego a pensar que não po
 tags: [memories]
 ---
 
-![Intensidade e sorvetes](https://ci3.googleusercontent.com/meips/ADKq_NaHCGc9hOIHJjnlD3uKuHo9HkzONnp9bLNxuODvly5ukGhA3moNS2cyxc7gFQw5wk_30oKl1PQVtdk67EPGq-r5WSoIKm2TllLmWy7lbbgS4w8sSCuRwSD6eXUAHRRMPatGeST6nyJ5MFbiSMIpaJ6EYFpBfuCYtaIEb6S8kRtIsnIb0pJMT2UFmms2GOG9T_YnQtja0CeczH8Ezz0LUCTgn0j5oUI0JmIUK6wSxNKDXdSU-GmCEi15QXTlx0dnIwh8CS0AbCO62ljHs8AWK-A_QuUZrKKdxzCW_Tiu=s0-d-e1-ft)
+![Intensidade e sorvetes](https://i1.wp.com/memories.geanramos.com.br/img/intensidade-e-sorvetes.gif)
 
 **Toda vez que eu peço sorvete eu acabo com o pote.** A quantidade é o menos importante. Eu gosto tanto de sorvete, que eu vou até o final. Se eu peço uma casquinha, eu como até a última mordida, se eu peço no copinho, dá vontade de comer o plástico. E se é delivery, dificilmente a embalagem volta pro congelador “por terminar”.
 
