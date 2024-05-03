@@ -7,9 +7,8 @@ img: ""
 
 **BASEADO EM UMA HISTÓRIA REAL**
 
-![](./img/inicio-perfeito.jpg)
+![O início perfeito](./img/inicio-perfeito.jpg)
 
-(Imagem: Freepik | Reprodução)
 
 A história da  **Bárbara**  e do **Matheus**  começou no Carnaval de 2018. Nascidos e criados em Salvador, o feriado sempre foi motivo de festa na vida dos dois.
 
