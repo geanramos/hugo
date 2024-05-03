@@ -29,8 +29,11 @@ Na semana seguinte, o Eduardo acordou convicto e obstinado a seguir o conselho. 
 Mesmo com essa ideia de coração fechado, ele sabia que o encontro dos dois tinha sido diferente.
 
 -   Tanto que, na primeira conversa, já lembrou do começo de **“Não Vá Embora”, da Marisa Monte.**
-- 
-<iframe width="676" height="380" src="https://www.youtube-nocookie.com/embed/KqZjtaQN0k4?si=r29ZVCszOCca-LFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<div class="embed-responsive">
+    <iframe width="676" height="380" src="https://www.youtube-nocookie.com/embed/KqZjtaQN0k4?si=r29ZVCszOCca-LFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+</div>
 
 _“E no meio de tanta gente eu encontrei você._ _Entre tanta gente chata sem nenhuma graça, você veio”._ E o Eduardo também diz que, por algum motivo, essa música faz ele pensar no metrô. Naquele entra e sai.
 
