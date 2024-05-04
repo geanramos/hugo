@@ -33,7 +33,7 @@ Mesmo com essa ideia de coração fechado, ele sabia que o encontro dos dois tin
 
 <div class="embed-responsive">
     <iframe width="676" height="380" src="https://www.youtube-nocookie.com/embed/KqZjtaQN0k4?si=r29ZVCszOCca-LFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
-</div>
+</div><br>
 
 _“E no meio de tanta gente eu encontrei você._ _Entre tanta gente chata sem nenhuma graça, você veio”._ E o Eduardo também diz que, por algum motivo, essa música faz ele pensar no metrô. Naquele entra e sai.
 
@@ -57,4 +57,4 @@ Se ele não tivesse deixado, não teria vivido coisas maravilhosas ao lado dessa
 
 Hoje, o Eduardo compartilha a vida ao lado de alguém que o faz sentir algo único, **como todo novo amor.** E assim ele percebe que aquele conselho foi o pior que já recebeu na vida. Ainda bem que não seguiu.
 
-> **Ficou curioso pra conhecer o [Eduardo](https://instagram.com/moraeseduardo/) e a [Mari](https://instagram.com/marinamullerg/)?** Esse casal lindo e inspirador já [Veja Aqui](https://i.imgur.com/uR644R9.jpeg). 
+> **Ficou curioso pra conhecer o [Eduardo](https://instagram.com/moraeseduardo/) e a [Mari](https://instagram.com/marinamullerg/)?** Esse casal lindo e inspirador já [Veja Aqui](https://cdn.jsdelivr.net/gh/geanramos/hugo/img/moraeseduardo-e-marinamullerg1.jpg). 
