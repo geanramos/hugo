@@ -63,4 +63,4 @@ O seu sogro fez a sangria e comprou os vinhos. Os amigos do casal ajudaram na de
 
 Com o Tanguy, a Vitória aprende diariamente a ter calma, paciência, e ser carinhosa com as pessoas e com a vida. Afinal, se não tivessem tido paciência,  **os dois não estariam vivendo esse grande amor.**
 
->**Ficou curioso pra conhecer o [Tanguy](https://www.instagram.com/yann_le_terrier_/) e a [Vitória](https://www.instagram.com/domenesvi/)?** [Eles já apareceram no nosso Instagram](./img/tanguy-e-vitoria.jpg).  
+>**Ficou curioso pra conhecer o [Tanguy](https://www.instagram.com/yann_le_terrier_/) e a [Vitória](https://www.instagram.com/domenesvi/)?** [Veja Aqui](./img/tanguy-e-vitoria.jpg).  
