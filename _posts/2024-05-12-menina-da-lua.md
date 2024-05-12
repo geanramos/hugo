@@ -23,6 +23,10 @@ img: "https://memories.geanramos.com.br/img/menina-da-lua.jpg"
 > 
 > Leve na lembrança A singela melodia que eu fiz Pra ti, oh, bem amada
 > Princesa, olhos d'água Menina linda
+> 
+<div class="embed-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8AeYRx5_iw?si=vcSuu6_AfwlqM7Zu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 A música “Menina da Lua” foi composta pelo mineiro Renato Motta, mas ficou mais conhecida pela voz da Maria Rita, filha da Elis Regina.
 
