@@ -46,4 +46,5 @@ Ela odeia não poder discutir com a Ana Maria seus planos mirabolantes e decisõ
 E como ela sabe que a sua mãe sofreu em deixá-la aqui sozinha, a Laís quer que ela  _“desprendas de qualquer temor que sintas”_. Como a música da Maria Rita, ela segue  _“clareando a noite tensa deste amor”_.
 
 > Ficou curioso pra conhecer a Ana Maria?
-> ![Minha mãe era amor](./img/minha-mae-era-amor2.jpg)
+
+![Minha mãe era amor](./img/minha-mae-era-amor2.jpg)
