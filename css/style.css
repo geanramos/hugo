@@ -21,12 +21,14 @@ img {
   padding: 0;
   border: 0;
 }
+
 html {
-  background-color: #fdfdfd;
-  font-size: 16px;
-  line-height: 1.5;
-  color: #222;
+    background-image: url(https://xukimseven.github.io/assets/bak.svg);
+    background-size: 100%;
+    background-position: center;
+    background-color: #fdfdfd;
 }
+
 @media (min-width: 940px) {
   html {
     font-size: 18px;
@@ -130,6 +132,7 @@ blockquote ol {
 html,
 body {
   height: 100%;
+  background-image: url(https://xukimseven.github.io/assets/bak.svg);
 }
 #nav a,
 #nav-left a {
@@ -294,6 +297,18 @@ body {
   text-align: center;
   padding: 24px 0;
   position: relative;
+    height: 440px;
+    max-width: 1280px;
+    margin: -20px auto;
+    background-image: url(https://xukimseven.github.io/assets/lineart.png);
+    color: #555;
+    background-size: 1188px 219px;
+    background-repeat: no-repeat;
+    background-position: top;
+    /* background: blue; */
+    /*border-bottom: 1px solid #e7eaf1;*/
+    position: relative;
+    z-index: -1;
 }
 #header a {
   text-decoration: none;
