@@ -61,7 +61,7 @@ Amanhã, eles completam  **um ano de casados**, e a cada dia que passa, o Samuel
 Como bom “último romântico”, ele também fez  uma declaração pra ela. [Veja Aqui!](./img/declaracao-samuel-e-lauri.png).  
 
 
-**UPDATE**
+### UPDATE
 
 > Pensando na história, esse filme abaixo retrata bem o ***"amor eterno"*** que muita gente sonha em construir
 
@@ -69,7 +69,7 @@ Como bom “último romântico”, ele também fez  uma declaração pra ela. [V
 <iframe width="560" height="315" src="https://www.dailymotion.com/embed/video/x40qupy?autoplay=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### [Diário de uma Paixão (2004)](https://www.themoviedb.org/movie/11036-the-notebook?language=pt-BR)
+[Diário de uma Paixão (2004)](https://www.themoviedb.org/movie/11036-the-notebook?language=pt-BR)
 
 > Por trás de todo grande amor há uma grande história.
 
