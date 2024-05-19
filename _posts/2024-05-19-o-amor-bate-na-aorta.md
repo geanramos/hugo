@@ -4,9 +4,10 @@ date: "2024-05-19T09:25:32-03:00"
 tags: [memories]
 img: "https://lh3.ggpht.com/-x7VwQDKoEAI/USGCabGsuiI/AAAAAAAAM64/r9l1vV0Anvs/tumblr_mhw8e4IAf41qzhfqvo1_500%25255B4%25255D.gif?imgmax=800"
 ---
+
 <div class="embed-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JzIGlS51A-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div><p>
+</div>
 
 _Cantiga do amor sem eira_  
 _nem beira,_  
