@@ -64,8 +64,10 @@ O poema  _“O Amor Bate na Aorta”_  é do *Carlos Drummond de Andrade*, e fal
 -   Começando naquele caos da paixão, ele já fala que  _“cantiga do amor sem eira nem beira, vira o mundo de cabeça pra baixo”._
     
 
-É aquele frio na barriga intenso, quando a gente acaba de conhecer alguém e só quer saber disso. Como já dizia Luis Gonzaga,  _“só vive suspirando, sonhando acordada”._
-
+É aquele frio na barriga intenso, quando a gente acaba de conhecer alguém e só quer saber disso. Como já dizia Luiz Gonzaga,  _“só vive suspirando, sonhando acordada”._
+<div class="embed-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4hBmHs0-f14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 Mas como é difícil viver nesse mood de _“não come, não estuda, não dorme e não quer nada”_, essa paixão vai amadurecendo  _“entre uvas meio verdes e desejos já maduros”._
 
 **E é aí que entra o amor.** Selvagem e esperto como um “bicho instruído”. O amor é corajoso, persistente e paciente. Ele faz loucuras, se declara, pula o muro e sobe na árvore.
