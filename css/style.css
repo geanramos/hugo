@@ -311,9 +311,10 @@ body {
   display: inline-block;
 }
 #header img {
-  max-height: 72px;
+  max-height: 100px;
   margin: 0 auto;
   display: block;
+  border-radius: 50px;
 }
 #header h1 {
   font-family: "Poppins", sans-serif;
