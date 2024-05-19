@@ -297,18 +297,12 @@ body {
   top: 25px;
   text-align: center;
   padding: 25px 0;
-  position: relative;
-  /* height: 440px; */
-  max-width: 1280px;
-  margin: -20px auto;
   background-image: url(https://xukimseven.github.io/assets/lineart.png);
   color: #fff;
   background-size: 1188px 219px;
   background-repeat: no-repeat;
   background-position: top;
-  /* background: blue; */
-  border-bottom: 1px solid #e7eaf1;
-  /* position: relative; */
+  border-bottom: 0px solid #e7eaf1;
   z-index: -1;
 }
 #header a {
