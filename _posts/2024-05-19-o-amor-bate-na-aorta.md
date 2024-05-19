@@ -5,8 +5,6 @@ tags: [memories]
 img: "https://lh3.ggpht.com/-x7VwQDKoEAI/USGCabGsuiI/AAAAAAAAM64/r9l1vV0Anvs/tumblr_mhw8e4IAf41qzhfqvo1_500%25255B4%25255D.gif?imgmax=800"
 ---
 
-![](https://lh3.ggpht.com/-x7VwQDKoEAI/USGCabGsuiI/AAAAAAAAM64/r9l1vV0Anvs/tumblr_mhw8e4IAf41qzhfqvo1_500%25255B4%25255D.gif?imgmax=800)
-
 _Cantiga do amor sem eira_  
 _nem beira,_  
 _vira o mundo de cabeça_  
@@ -58,6 +56,8 @@ _ouço mãos que se conversam_
 _e que viajam sem mapa._  
 _Vejo muitas outras coisas_  
 _que não ouso compreender..._
+
+![O Amor Bate na Aorta](https://lh3.ggpht.com/-x7VwQDKoEAI/USGCabGsuiI/AAAAAAAAM64/r9l1vV0Anvs/tumblr_mhw8e4IAf41qzhfqvo1_500%25255B4%25255D.gif?imgmax=800)
 
 O poema  _“O Amor Bate na Aorta”_  é do *Carlos Drummond de Andrade*, e fala sobre o  **poder transformador do sentimento amoroso**  — mesmo com todas as emoções contraditórias que ele gera.
 
