@@ -60,8 +60,18 @@ Amanhã, eles completam  **um ano de casados**, e a cada dia que passa, o Samuel
 
 Como bom “último romântico”, ele também fez  uma declaração pra ela. [Veja Aqui!](./img/declaracao-samuel-e-lauri.png).  
 
+
 **UPDATE**
+
+> Pensando na história, esse filme abaixo retrata bem o ***"amor eterno"*** que muita gente sonha em construir
 
 <div class="embed-responsive">
 <iframe width="560" height="315" src="https://www.dailymotion.com/embed/video/x40qupy?autoplay=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+### [Diário de uma Paixão (2004)](https://www.themoviedb.org/movie/11036-the-notebook?language=pt-BR)
+
+> Por trás de todo grande amor há uma grande história.
+
+**Sinopse:** Na década de 40, o operário Noah Calhoun e a rica Allie estão desesperadamente apaixonados, mas os pais da jovem não aprovam o namoro. Quando Noah vai para a Segunda Guerra Mundial, parece ser o fim do romance. Enquanto isso, Allie se envolve com outro homem. Mas quando Noah retorna para a pequena cidade anos mais tarde, próximo ao casamento de Allie, logo se torna claro que a paixão ainda não acabou.
+
