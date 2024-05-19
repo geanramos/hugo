@@ -55,4 +55,13 @@ Mas ele também admira a capacidade que ela tem de ajudar as pessoas. Admira a m
 
 Amanhã, eles completam  **um ano de casados**, e a cada dia que passa, o Samuel tem mais certeza de que o que construíram será pra sempre. Como ele sempre diz:  _“te amo, e obrigado por me fazer o homem mais feliz do mundo”._
 
-**Ficou curioso pra conhecer o Samuel e a Lauri?**  Como bom “último romântico”, ele também fez  uma declaração pra ela. [Veja Aqui!](./img/samuel-e-lauri.jpg).  
+**Ficou curioso pra conhecer o Samuel e a Lauri?**  
+<a href="./img/samuel-e-lauri.jpg">  <img src="./img/samuel-e-lauri.jpg" alt="Até ficar velhinho">  </a>
+
+Como bom “último romântico”, ele também fez  uma declaração pra ela. [Veja Aqui!](./img/declaracao-samuel-e-lauri.png).  
+
+**UPDATE**
+
+<div class="embed-responsive">
+<iframe width="560" height="315" src="https://www.dailymotion.com/embed/video/x40qupy?autoplay=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
