@@ -5,7 +5,9 @@ description: "Não é que eu gosto. É que eu amo. Eu chego a pensar que não po
 tags: [memories]
 ---
 
-![Intensidade e sorvetes](https://i1.wp.com/memories.geanramos.com.br/img/intensidade-e-sorvetes.gif)
+<a href="./ate-ficar-velhinho#UPDATE">  <img src="https://i1.wp.com/memories.geanramos.com.br/img/intensidade-e-sorvetes.gif" alt="Intensidade e sorvetes">  </a>
+
+Fonte: [Diário de uma Paixão (2004)](./ate-ficar-velhinho#UPDATE) 
 
 **Toda vez que eu peço sorvete eu acabo com o pote.** A quantidade é o menos importante. Eu gosto tanto de sorvete, que eu vou até o final. Se eu peço uma casquinha, eu como até a última mordida, se eu peço no copinho, dá vontade de comer o plástico. E se é delivery, dificilmente a embalagem volta pro congelador “por terminar”.
 
