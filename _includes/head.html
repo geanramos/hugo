@@ -5,6 +5,19 @@
 	<meta property="fb:admins" content="100000009730750"/>
 	<link href="https://gean.me/favicon.ico" rel="icon" type="image/x-icon"/>
 	<title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<!-- Metatags Open Graph para Facebook -->
+	<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:description" content="Nem sempre com finais felizes, mas sempre verdadeiras. Histórias de quem realmente sentiu algo sincero.">
+	<meta property="og:image" content="https://source.unsplash.com/random/600x400/?love-couple">
+	<!--<meta property="og:url" content="https://memories.geanramos.com.br/">-->
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Memories">	
+	<!-- Metatags Twitter Cards -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta name="twitter:description" content="Nem sempre com finais felizes, mas sempre verdadeiras. Histórias de quem realmente sentiu algo sincero.">
+	<meta name="twitter:image" content="https://source.unsplash.com/random/600x400/?love-couple">
+	<meta name="twitter:site" content="@geanramos">
 	<!-- CSS & fonts -->
 	<link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl | replace: '//', '/' }}">
 	<!-- RSS -->
