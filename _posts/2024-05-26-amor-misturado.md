@@ -1,6 +1,6 @@
 ---
 title: "Amor misturado"
-date: "2024-05-26T11:20:00-03:00"
+date: "2024-05-26T12:16:00-03:00"
 tags: [memories]
 img: "./encontros-e-desencontros.gif"
 ---
