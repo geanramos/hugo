@@ -1,5 +1,5 @@
 ---
-title: "cada-pessoa-e-um-oceano-inteiro"
+title: "Cada pessoa é um oceano inteiro"
 date: "2024-05-26T11:20:00-03:00"
 tags: [memories]
 img: "./img/cada-pessoa-e-um-oceano-inteiro.jpg"
