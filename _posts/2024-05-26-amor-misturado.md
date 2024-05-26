@@ -2,10 +2,10 @@
 title: "Amor misturado"
 date: "2024-05-26T12:16:00-03:00"
 tags: [memories]
-img: "./encontros-e-desencontros.gif"
+img: "./img/encontros-e-desencontros.gif"
 ---
 
-![Encontros e Desencontros](./encontros-e-desencontros.gif)
+![Encontros e Desencontros](./img/encontros-e-desencontros.gif)
 
 
 _Eu poderia até dizer que quando estou com você, é apenas em você que penso, que é puro e sem mistura o que sinto._  
