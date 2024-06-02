@@ -2,10 +2,10 @@
 title: "Caprichos do destino"
 date: "2024-06-02T09:14:00-03:00"
 tags: [memories]
-img: "./img/caprichos-do-destino.jpg"
+img: "./img/caprichos-do-destino.jpeg"
 ---
 
-![Caprichos do destino](./img/caprichos-do-destino.jpg)
+![Caprichos do destino](./img/caprichos-do-destino.jpeg)
 
 O Lucca e a Ana Beatriz se conheceram na 3ª série do Ensino Fundamental em Conselheiro Lafaiete, uma cidade no interior de Minas Gerais.
 
@@ -74,4 +74,6 @@ A partir do beijo no jogo do Galo, o laço entre os dois nunca mais foi desfeito
 
 E será que alguém imaginaria que duas estradas tão diferentes terminaram no mesmo destino? Finalizando com Vinicius de Moraes,  _"a vida é a arte do encontro embora haja tanto desencontro pela vida”._
 
-> **Ficou curioso pra conhecer o casal Ana e o Lucca da história?**  [Veja Aqui](#link)  — e tem até foto deles pequenininhos.
+![Caprichos do destino](./img/ana-e-lucca1.jpg)
+
+> **Ficou curioso pra conhecer o casal Ana e o Lucca da história?**  [Veja Aqui](img/ana-e-lucca2.jpg)  — e tem até foto deles pequenininhos.
