@@ -74,6 +74,6 @@ A partir do beijo no jogo do Galo, o laço entre os dois nunca mais foi desfeito
 
 E será que alguém imaginaria que duas estradas tão diferentes terminaram no mesmo destino? Finalizando com Vinicius de Moraes,  _"a vida é a arte do encontro embora haja tanto desencontro pela vida”._
 
-![Caprichos do destino]([./img/ana-e-lucca1.jpg](https://cdn.jsdelivr.net/gh/geanramos/hugo/img/ana-e-lucca1.jpg))
+![Caprichos do destino](https://cdn.jsdelivr.net/gh/geanramos/hugo/img/ana-e-lucca1.jpg)
 
-> **Ficou curioso pra conhecer o casal Ana e o Lucca da história?**  [Veja Aqui]([img/ana-e-lucca2.jpg](https://cdn.jsdelivr.net/gh/geanramos/hugo/img/ana-e-lucca2.jpg))  — e tem até foto deles pequenininhos.
+> **Ficou curioso? [Aqui](https://cdn.jsdelivr.net/gh/geanramos/hugo/img/ana-e-lucca2.jpg) tem mais imagens do casal da história?**  — e tem até foto deles pequenininhos.
