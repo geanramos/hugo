@@ -7,7 +7,14 @@ img: "./img/alegria-do-reencontro.gif"
 
 ![Alegria do Reencontro](./img/alegria-do-reencontro.gif)
 
-_“Amor é isto: a dialética entre a alegria do encontro e a dor da separação. De alguma forma, a gota de chuva aparecerá de novo, o vento permitirá que velejemos de novo, mar afora. Morte e ressurreição. Na dialética do amor, a própria dialética do divino. Quem não pode suportar a dor da separação, não está preparado para o amor. Porque o amor é algo que não se tem nunca. É evento de graça. Aparece quando quer, e só nos resta ficar à espera. E quando ele volta, a alegria volta com ele. E sentimos então que valeu a pena suportar a dor da ausência, pela alegria do reencontro”._
+> _“Amor é isto: a dialética entre a alegria do encontro e a dor da separação. De alguma forma, a gota de chuva aparecerá de novo, o vento
+> permitirá que velejemos de novo, mar afora. Morte e ressurreição. Na
+> dialética do amor, a própria dialética do divino. Quem não pode
+> suportar a dor da separação, não está preparado para o amor. Porque o
+> amor é algo que não se tem nunca. É evento de graça. Aparece quando
+> quer, e só nos resta ficar à espera. E quando ele volta, a alegria
+> volta com ele. E sentimos então que valeu a pena suportar a dor da
+> ausência, pela alegria do reencontro”._
 
 O trecho acima faz parte do texto  _**“Onde mora o amor”**,_  de Rubem Alves, que foi um famoso teólogo, psicanalista e escritor brasileiro.
 
@@ -16,13 +23,13 @@ O trecho acima faz parte do texto  _**“Onde mora o amor”**,_  de Rubem Alves
 
 Seguindo essa mesma ideia, tem um outro texto dele, que também já apareceu por aqui, chamado  _**“Ostra feliz não faz pérola”**_.
 
-Na obra, ele relembra que a pérola nasce, na verdade, depois de uma agressão à ostra. Pra se proteger de um invasor, ela libera um material que vai formando camadas, até se [transformar em uma pérola](https://www.youtube.com/watch?v=KVtvNg_J5LM).
+> Na obra, ele relembra que a pérola nasce, na verdade, depois de uma agressão à ostra. Pra se proteger de um invasor, ela libera um material que vai formando camadas, até se [transformar em uma pérola](https://www.youtube.com/watch?v=KVtvNg_J5LM).
 
 Saindo da parte metafórica, na vida real, **dar uma chance para o amor é também se expor ao risco do sofrimento.** E, assim como a ostra, é natural que a gente tente se proteger da dor.
 
 Seja colocando o sentimento embaixo do tapete, ou simplesmente fingindo que ele nunca existiu. Se anestesiando, tomando remédios, ou preenchendo a falta com uma rotina agitada.
 
--   Mas, como bem disse Rubem Alves, _“quem não pode suportar a dor da separação, não está preparado para o amor”._
+> -   Mas, como bem disse Rubem Alves, _“quem não pode suportar a dor da separação, não está preparado para o amor”._
     
 
 Ainda que essas válvulas de escape consigam amortecer a dor, elas não a resolvem. E o sofrimento fica lá, escondido, criando uma espécie de “capa dura”, que nos faz afirmar com convicção:  **eu nunca mais vou amar de novo.**
